@@ -1,4 +1,4 @@
-from graphs.breadth_first import bfs
+from algorithms.graphs.breadth_first import bfs
 
 
 def test_graph():

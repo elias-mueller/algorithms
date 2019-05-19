@@ -28,7 +28,7 @@ class LinkedList:
             e = e.next
         return e
 
-    def to_list(self):
+    def aslist(self):
         l = []
         e = self.head
         while e.next:
